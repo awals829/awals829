@@ -1,3 +1,3 @@
 - 👋🏻 Hello! I’m Dru (☞ﾟヮﾟ)☞
-- 🤔I’m interested in: Table-top games, History, Video games, Coding, and Math... but overall I'm mainly interested in improving myself, can that be an interest?
+- 🤔I’m interested in: Table-top games, History, Video games, Coding, and Math... but overall I'm mainly interested in improving myself. Can that be an interest?
 - 📫 I’m currently learning C++, Java, and Discrete Mathematics.
