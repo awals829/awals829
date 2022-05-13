@@ -1,4 +1,4 @@
-#👋🏻 Hello! I’m Dru (☞ﾟヮﾟ)☞
+👋🏻 Hello! I’m Dru (☞ﾟヮﾟ)☞
 - Im Learning Github, Assembly, C, C++, & Python currently 
 - please ignore the dumpster fire
 
